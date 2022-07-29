@@ -15,4 +15,6 @@
         This page gives information about courses offered by the university. It contains text and images.     
     5. Blog page : 
         This contains some images and texts.
+        
+ # 2. CSS
    Using css flex layout of the page is created. Using positions different positions are given to different tags. Using media-queries page is created responsive.
